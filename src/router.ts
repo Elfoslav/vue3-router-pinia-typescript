@@ -30,7 +30,7 @@ const routes: Array<RouteRecordRaw> = [
 
 // Create the router instance
 const router = createRouter({
-  history: createWebHistory(),
+  history: createWebHistory(process.env.BASE_URL),
   routes,
 })
 
