@@ -1,4 +1,4 @@
-# vue-3-with-pinia
+# Persons database created with Vue3, Vue Router, Pinia and TypeScript
 
 ## Project setup
 ```
